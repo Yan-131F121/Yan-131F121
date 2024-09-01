@@ -1,3 +1,4 @@
+> However ruined this world has become, however mired in torment and despair... Life endures. Births continue.
 ## About me
 Hi, I'm @Yan-131F121.
 - 👀 I’m interested in Game Develop/Web Design/AI Programming

@@ -1,7 +1,7 @@
 > 古郷や、よるも障るも、茨の花。
 > 
 > なくな雁、けふから我も、旅人ぞ。
-## Hi there👋, welcome!
+## Hi there👋, Welcome!
 Hello!👋My name is **ZHENG JUNYAN**. I am from Tianjin University of Science & Technology taking Computer Science and Technology. 🏫
 
 I have a huge interest in mathematics♾️ as well computer science💻! Currently studying data structures & algorithms and preparing to medal🥇 in ACM/ICPC.

@@ -1,4 +1,6 @@
-> However ruined this world has become, however mired in torment and despair... Life endures. Births continue.
+> 古郷や、よるも障るも、茨の花。
+> 
+> なくな雁、けふから我も、旅人ぞ。
 ## Hi there👋, welcome!
 Hello!👋My name is **ZHENG JUNYAN**. I am from Tianjin University of Science & Technology taking Computer Science and Technology. 🏫
 

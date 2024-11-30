@@ -1,6 +1,15 @@
 > However ruined this world has become, however mired in torment and despair... Life endures. Births continue.
-## About me
-Hi, I'm @Yan-131F121. To preparing for ACM/ICPC, I'm now learning data structures and algorithms.
- - Codeforces ID: VulpisFoglia
- - AtCoder ID: VulpisFoglia
- - LeetCode ID: Palinurus
+## Hi there👋, welcome!
+Hello!👋My name is **ZHENG JUNYAN**. I am from Tianjin University of Science & Technology taking Computer Science and Technology. 🏫
+
+I have a huge interest in mathematics♾️ as well computer science💻! Currently studying data structures & algorithms and preparing to medal🥇 in ACM/ICPC.
+
+I love to join different community and competition that involve creating something for the society! 🙋
+
+- 🔭 I'm currently working on this page.
+- 🌱 I'm currently learning Data Structures & Algorithms.
+- 📫 How to reach me:
+  + Yan-131F121 (Github)
+  + VulpisFoglia (Codeforces, AtCoder)
+  + KireiiwaCh134 (Twitter)
+  + Palinurus (LeetCode)

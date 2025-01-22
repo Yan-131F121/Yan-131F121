@@ -11,7 +11,5 @@ I love to join different community and competition that involve creating somethi
 - 🔭 I'm currently working on this page.
 - 🌱 I'm currently learning Data Structures & Algorithms.
 - 📫 How to reach me:
-  + Yan-131F121 (Github)
+  + Yan-131F121 (GitHub)
   + VulpisFoglia (Codeforces, AtCoder)
-  + KireiiwaCh134 (Twitter)
-  + Palinurus (LeetCode)
